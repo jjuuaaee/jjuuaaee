@@ -2,4 +2,6 @@
 
 🌱 Coding From Zero to Hero 
 
-![GIF Title](https://github.com/jjuuaaee/jjuuaaee/blob/main/assets/89688065/d920f626-79ca-4dc7-8932-7e8c40692c61.gif)
+
+<img src="https://github.com/jjuuaaee/jjuuaaee/assets/89688065/04257a51-f7e5-4c82-9411-15e0cec39ff7" style="width:200px">
+</img>
