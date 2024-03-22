@@ -1,4 +1,4 @@
 ### GO POTATO 🌼🥔✨
 
 🌱 Coding From Zero to Hero 
-![GIF](https://2.gall-gif.com/hygall/files/attach/images/82/557/552/189/1786b119778bb1ca718047c3a20e7285.gif)
+![GIF](https://giphy.com/gifs/crayon-shinchan-shin-chan-kGdWDdaIEN5yDWKmg4)
