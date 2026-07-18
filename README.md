@@ -5,10 +5,6 @@
   />
 </p>
 
-# Hi There 👋
-
----
-
 <p align="left">
   <a href="https://github.com/jjuuaaee">
     <img
@@ -27,17 +23,10 @@
 
 ## Hello, I'm Juae Seok!
 
-Good day!
+I am an **M.S. student in robotics** from South Korea 🇰🇷.
+My research focuses on **robot manipulation, deep learning, computer vision, vision-language-action models, tactile sensing, and Physical AI**.
 
-I am a robotics researcher from South Korea 🇰🇷.
-
-I am interested in **robot manipulation, deep learning, computer vision,
-vision-language-action models, tactile sensing, and Physical AI**.
-
-My current research focuses on dexterous hand-arm manipulation,
-robot teleoperation, tactile-based slip detection, and failure recovery.
-
-If you would like to contact me, please leave me a message!
+Have a nice day !
 
 <br>
 
@@ -57,10 +46,9 @@ If you would like to contact me, please leave me a message!
 ## ✨ Summary
 
 - 🤖 I’m currently working on dexterous hand-arm manipulation.
-- 🖐️ I’m researching tactile-based slip detection and grasp recovery.
-- 🥽 I’m developing robot teleoperation and demonstration collection systems.
-- 🧠 I’m interested in Vision-Language-Action models and Physical AI.
-- 🔄 I’m studying autonomous failure detection and recovery.
+- 🖐️ I’m interested in Vision-Language-Action Models and Physical AI.
+- 🧠 I’m researching tactile sensing for robotic grasping.
+- 🥽 I’m developing teleoperation systems for robot demonstration collection.
 
 <br>
 
@@ -78,4 +66,4 @@ If you would like to contact me, please leave me a message!
 ## 📫 Contact
 
 - GitHub: [github.com/jjuuaaee](https://github.com/jjuuaaee)
-- Email: seokjuae@gmail.com
+- Email: seokjuae@gmail.com, juae@kist.re.kr
