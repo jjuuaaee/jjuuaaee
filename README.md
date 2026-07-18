@@ -24,9 +24,7 @@
 ## Hello, I'm Juae Seok!
 
 I am an **M.S. student in robotics** from South Korea 🇰🇷.
-My research focuses on **robot manipulation, deep learning, computer vision, vision-language-action models, tactile sensing, and Physical AI**.
-
-Have a nice day !
+My research focuses on **robot manipulation, deep learning, computer vision, vision-language-action models, tactile sensing, and Physical AI**. Have a nice day !
 
 <br>
 
