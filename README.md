@@ -23,13 +23,6 @@
       alt="LinkedIn"
     />
   </a>
-
-  <a href="YOUR_INSTAGRAM_URL">
-    <img
-      src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-      alt="Instagram"
-    />
-  </a>
 </p>
 
 ## Hello, I'm Juae Seok!
