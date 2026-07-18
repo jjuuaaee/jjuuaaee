@@ -26,8 +26,6 @@
 I am an **M.S. student in robotics** from South Korea 🇰🇷.
 My research focuses on **robot manipulation, deep learning, computer vision, vision-language-action models, tactile sensing, and Physical AI**. Have a nice day !
 
-<br>
-
 ## 💫 Experience
 
 - **KIST AI Robotics Institute** — Research Intern  
@@ -39,16 +37,12 @@ My research focuses on **robot manipulation, deep learning, computer vision, vis
 - **Research Platforms**  
   *Franka FR3, KISTAR Dexterous Hand, Meta Quest, Intel RealSense*
 
-<br>
-
 ## ✨ Summary
 
 - 🤖 I’m currently working on dexterous hand-arm manipulation.
 - 🖐️ I’m interested in Vision-Language-Action Models and Physical AI.
 - 🧠 I’m researching tactile sensing for robotic grasping.
 - 🥽 I’m developing teleoperation systems for robot demonstration collection.
-
-<br>
 
 ## 🛠️ Tech Stack
 
@@ -58,8 +52,6 @@ My research focuses on **robot manipulation, deep learning, computer vision, vis
     alt="Tech Stack"
   />
 </p>
-
-<br>
 
 ## 📫 Contact
 
