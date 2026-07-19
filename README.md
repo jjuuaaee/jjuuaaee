@@ -5,7 +5,7 @@
   />
 </p>
 
-# Hello, I'm Juae Seok! 👋
+# Hi, I'm Juae Seok! 👋
 
 ---
 <p align="left">
