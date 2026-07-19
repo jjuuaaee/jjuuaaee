@@ -12,13 +12,6 @@
       alt="GitHub"
     />
   </a>
-
-  <a href="YOUR_LINKEDIN_URL">
-    <img
-      src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
   
 <a href="YOUR_TISTORY_URL">
   <img
@@ -26,6 +19,13 @@
     alt="Tistory"
   />
 </a>
+
+  <a href="YOUR_LINKEDIN_URL">
+    <img
+      src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
 </p>
 ## Hello, I'm Juae Seok!
 
