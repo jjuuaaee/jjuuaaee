@@ -19,8 +19,14 @@
       alt="LinkedIn"
     />
   </a>
+  
+<a href="YOUR_TISTORY_URL">
+  <img
+    src="https://img.shields.io/badge/TISTORY-000000?style=for-the-badge&logo=tistory&logoColor=white"
+    alt="Tistory"
+  />
+</a>
 </p>
-
 ## Hello, I'm Juae Seok!
 
 I am an **M.S. student in robotics** from South Korea 🇰🇷.
